@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ced4da;
+}
+
+/* .container{
+    margin-left: -2px;
+    margin-right: -2px;
+
+} */
+
+.logo {
+    margin-left: -5.5rem;
+}
+
+.searchBtn {
+    width: 40px;
+    height: 38px;
+    background-color: #fff;
+    border: 2px solid #ced4da;
+    border-right: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.searchBox {
+    border: 2px solid #ced4da;
+    border-radius: 0.5rem;
+}
+
+.searchBtn {
+    border: none;
+    color: #878787;
+    font-size: 18px;
+
+}
+
+.searchInput {
+    border: none;
+    font-size: 18px;
+}
+
+.searchInput:focus {
+    box-shadow: none;
+    border: none;
+}
+
+.login-dropdown {
+    font-size: 18px;
+}
+
+.Products-item::-webkit-scrollbar{
+    display: none;
+}
+.cart {
+    font-size: 18px;
+}
+
+.seller {
+    width: 12rem;
+}
+
+.store {
+    font-size: 18px;
+
+}
+
+.navbar-items {
+    margin-right: -4rem;
+}
+
+.dropdown-item {
+    font-size: 17px;
+}
+
+.signup {
+    font-size: 20px;
+    color: rgb(44, 44, 251);
+    font-weight: 700;
+}
+
+.more-items {
+    margin-right: -4rem;
+}
+
+.drower {
+    font-size: 16px;
+    height: 8rem;
+
+}
+
+.card-wrapper {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    scroll-behavior: smooth;
+    padding-bottom: 10px;
+}
+
+.card-wrapper::-webkit-scrollbar {
+    height: 8px;
+}
+
+
+.Products img{
+    margin: 16px;
+    
+}
+.Products{
+    line-height: 0.5rem;
+    border-radius: 2px solid;
+}
+
+.slide2 img{
+    width: 152px;
+    height: 152px;
+    margin: 16px;
+    object-fit:contain;
+}
+
+h3{
+    font-weight: 700;
+}
